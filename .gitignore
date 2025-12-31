@@ -1,0 +1,4 @@
+/node_modules
+/.env
+src/config/firebaseServiceKey.json
+puntmate-413c6-firebase-adminsdk-fbsvc-2d30dc3612.json
